@@ -1,0 +1,94 @@
+/* app_override.css: This file contains specific overrides to the default CSS */
+/* Written by Tristan Chu '16 for the Dartmouth College Fencing Club Website  */
+/* Uses the Foundation 5 framework */
+
+/** CLASS SETTINGS **/
+
+/* Centers the top bar */
+nav.top-bar {
+	text-align:center;
+}
+
+section.top-bar-section {
+	display: inline-block;
+}
+
+/* Class to center the orbit slider | Foundation 5 Orbit class specific */
+.example-orbit img {
+  display:block;
+  margin: 0 auto;
+}
+
+/* Class to determine the maximum size of the orbit slider | Foundation 5 Orbit class specific */
+.orbit-container {
+	max-height: 700px;
+}
+
+/* Row settings | Foundation 5 Grid system specific */
+.row {
+  margin: 0 auto;
+  max-width: 68.5rem; /* Adjust this to determine row size */
+  width: 100%;
+}
+
+/** HEADER SETTINGS **/
+
+/* Various font settings, defined here to minimize clutter in the actual code */
+
+h5 {
+  font-size: 20px;
+  color: white;
+}
+
+h4 {
+  font-size: 25px;
+  color: white;
+}
+
+h3 {
+  font-size: 30px;
+  color:white;
+}
+
+h2 {
+  font-size: 40px;
+  color: #01683B;
+}
+
+h1 { 
+  font-size: 50px;
+  color: #01683B;
+}
+
+/** LINK SETTINGS **/
+
+/* Same as Header settings, except for links */
+
+a {
+	color: black;
+}
+
+a:hover {
+	color: white;
+}
+
+a:hover {
+	color: #01683B;
+}
+
+/** HORIZONTAL RULE SETTINGS **/
+
+hr {
+height: 1px;
+color: #01683B;
+background-color: #01683B;
+border: none;
+}
+
+/** BODY SETTINGS **/
+
+body {
+  background-image:url("../pictures/background_2x.jpg"); /* The background displayed on each page */
+  background-repeat:no-repeat; /* no-repeat: background image does not repeat. repeat: background image repeats */
+  background-attachment:fixed; /* fixed: background image does not scroll with page. scroll: background image scrolls with page */
+}
