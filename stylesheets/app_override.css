@@ -35,29 +35,60 @@ section.top-bar-section {
 
 /* Various font settings, defined here to minimize clutter in the actual code */
 
-h5 {
+/* For small screens, resize the header fonts */
+@media only screen and (max-width: 40em) { /* 40em = 640 px */
+  h5 {
+  font-size: 12px;
+  color: white;
+  }
+
+  h4 {
+  font-size: 15px;
+  color: white;
+  }
+
+  h3 {
   font-size: 20px;
-  color: white;
-}
-
-h4 {
-  font-size: 25px;
-  color: white;
-}
-
-h3 {
-  font-size: 30px;
   color:white;
-}
+  }
 
-h2 {
+  h2 {
+  font-size: 30px;
+  color: #01683B;
+  }
+
+  h1 { 
   font-size: 40px;
   color: #01683B;
+  }
 }
 
-h1 { 
-  font-size: 50px;
-  color: #01683B;
+/* Otherwise, if not a small screen, default font size */
+@media only screen and (min-width: 40em) { /* 40 em = 640 px */
+  h5 {
+    font-size: 20px;
+    color: white;
+  }
+
+  h4 {
+    font-size: 25px;
+    color: white;
+  }
+
+  h3 {
+    font-size: 30px;
+    color:white;
+  }
+
+  h2 {
+    font-size: 40px;
+    color: #01683B;
+  }
+
+  h1 { 
+    font-size: 50px;
+    color: #01683B;
+  }
 }
 
 /** LINK SETTINGS **/
