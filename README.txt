@@ -2,7 +2,7 @@
                README
 -------------------------------------
 
-Current Version : v 1.0.0
+Current Version : v 1.1.0
  
  ---------------------
 | GENERAL INFORMATION |
@@ -97,7 +97,7 @@ Current Version : v 1.0.0
 
 July 19, 2015  : V 1.0.0 Released
 
-August 1, 2015 : V 1.1.0 Released
+August 8, 2015 : V 1.1.0 Released
                  - Basic responsive design implemented. Website should now function on any screen size (NOTE: Still a little hacky, will look over this later)       
                    - Website resizes content based on screen size. For smaller screens topbar changes to an off canvas dropdown navigation bar  
                    - Media Queries used to resize header fonts based on screen size. As of now there is only a distinction set at the breakpoint of 640 px, will
@@ -107,6 +107,7 @@ August 1, 2015 : V 1.1.0 Released
                  - Removed sticky topbar for large screens. Topbar now moves with the screen when scrolled
                  - Resized pictures on "Roster" page. Exec photos are now uniformly 300x300 px, everyone else is at 250x250 px 
                  - Centered title images (shifted over from being on the left of each page)
+
 
 
 
