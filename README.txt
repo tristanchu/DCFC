@@ -2,7 +2,7 @@
                README
 -------------------------------------
 
-Current Version : v 1.1.0
+Current Version : v 1.1.1
  
  ---------------------
 | GENERAL INFORMATION |
