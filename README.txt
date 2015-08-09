@@ -108,6 +108,20 @@ August 8, 2015 : V 1.1.0 Released
                  - Resized pictures on "Roster" page. Exec photos are now uniformly 300x300 px, everyone else is at 250x250 px 
                  - Centered title images (shifted over from being on the left of each page)
 
+August 8, 2015 : V 1.1.1 Released
+                 - Updated Roster Page. Submitted Pictures and Text for the 2015-2016 year
+                 - All photos on the Roster page are now JPGs to minimize file size
+                 - Restructured Photos and how they're organized
+                   - PICTURES           - Photos actually being used on the website
+                   - PICTURES_ORIGINALS - Photos as originally received
+                   - PICTURES_RESERVES  - Photos that could be used on the website
+
+ ---------------------
+|   IDEAS FOR LATER   |
+ ---------------------
+
+- Some way to automate the photo organization, cropping, and uploading process. Perhaps a script that combines facial detection and resolution scaling
+
 
 
 
