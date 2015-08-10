@@ -2,7 +2,7 @@
                README
 -------------------------------------
 
-Current Version : v 1.1.1
+Current Version : v 1.1.2
  
  ---------------------
 | GENERAL INFORMATION |
@@ -116,11 +116,20 @@ August 8, 2015 : V 1.1.1 Released
                    - PICTURES_ORIGINALS - Photos as originally received
                    - PICTURES_RESERVES  - Photos that could be used on the website
 
+August 9, 2015 : V 1.1.2 Released
+                 - Updated Prospective Students Page. Submitted Pictures and Text for the 2015-2016 year
+                 - Minor reformat of the Prospective Students Page (structure, grid orientation)
+                 - Updated 1 student bio (roster_32) on Roster Page
+                 - Added IDEAS FOR LATER section to README
+
  ---------------------
 |   IDEAS FOR LATER   |
  ---------------------
 
 - Some way to automate the photo organization, cropping, and uploading process. Perhaps a script that combines facial detection and resolution scaling
+
+- Get a professional photographer (or a little girl with a high end camera) to take artsy photos of the team, "candids," and generally supply us with website content.
+  Stalking Facebook for photos is a gamble in terms of getting A) High Quality photos of B) the right size / resolution with C) good content that is usable.
 
 
 
