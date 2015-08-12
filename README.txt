@@ -2,7 +2,7 @@
                README
 -------------------------------------
 
-Current Version : v 1.1.2
+Current Version : v 1.1.3
  
  ---------------------
 | GENERAL INFORMATION |
@@ -108,19 +108,29 @@ August 8, 2015 : V 1.1.0 Released
                  - Resized pictures on "Roster" page. Exec photos are now uniformly 300x300 px, everyone else is at 250x250 px 
                  - Centered title images (shifted over from being on the left of each page)
 
-August 8, 2015 : V 1.1.1 Released
-                 - Updated Roster Page. Submitted Pictures and Text for the 2015-2016 year
-                 - All photos on the Roster page are now JPGs to minimize file size
-                 - Restructured Photos and how they're organized
-                   - PICTURES           - Photos actually being used on the website
-                   - PICTURES_ORIGINALS - Photos as originally received
-                   - PICTURES_RESERVES  - Photos that could be used on the website
+August 8, 2015  : V 1.1.1 Released
+                  - Updated Roster Page. Submitted Pictures and Text for the 2015-2016 year
+                  - All photos on the Roster page are now JPGs to minimize file size
+                  - Restructured Photos and how they're organized
+                    - PICTURES           - Photos actually being used on the website
+                    - PICTURES_ORIGINALS - Photos as originally received
+                    - PICTURES_RESERVES  - Photos that could be used on the website
 
-August 9, 2015 : V 1.1.2 Released
-                 - Updated Prospective Students Page. Submitted Pictures and Text for the 2015-2016 year
-                 - Minor reformat of the Prospective Students Page (structure, grid orientation)
-                 - Updated 1 student bio (roster_32) on Roster Page
-                 - Added IDEAS FOR LATER section to README
+August 9, 2015  : V 1.1.2 Released
+                  - Updated Prospective Students Page. Submitted Pictures and Text for the 2015-2016 year
+                  - Minor reformat of the Prospective Students Page (structure, grid orientation)
+                  - Updated 1 student bio (roster_32) on Roster Page
+                  - Added IDEAS FOR LATER section to README
+
+August 12, 2015 : V 1.1.3 Released
+                  - Updated Home, About Us, Practice, Competition, Support, and FAQ pages. Submitted Pictures and Text for the 2015-2016 year
+                    - Competition is incomplete because the schedule details are not yet known
+                    - News and Media are formatted, but not filled out.
+                    - NOTE: Figure out how to stop lag on Media page from overabundance of pictures
+                  - Added a new folder, "pictures_media" for pictures to be placed on the Media Page
+                  - Minor formatting changes
+                  - Added a ton of pictures, need to organize them later
+                  - NOTE: Pictures and text are NOT finalized. Working with a very limited toolset here.
 
  ---------------------
 |   IDEAS FOR LATER   |
@@ -130,6 +140,8 @@ August 9, 2015 : V 1.1.2 Released
 
 - Get a professional photographer (or a little girl with a high end camera) to take artsy photos of the team, "candids," and generally supply us with website content.
   Stalking Facebook for photos is a gamble in terms of getting A) High Quality photos of B) the right size / resolution with C) good content that is usable.
+
+- Get someone to write the news articles and update the site. Secretary?
 
 
 
