@@ -2,7 +2,7 @@
                README
 -------------------------------------
 
-Current Version : v 1.1.3
+Current Version : v 1.1.4
  
  ---------------------
 | GENERAL INFORMATION |
@@ -131,6 +131,11 @@ August 12, 2015 : V 1.1.3 Released
                   - Minor formatting changes
                   - Added a ton of pictures, need to organize them later
                   - NOTE: Pictures and text are NOT finalized. Working with a very limited toolset here.
+
+August 12, 2015 : V 1.1.4 Released
+                  - Updated various pages' text and pictures
+                  - Added the tentative competition schedule for 2015-2016 year
+                  - More pictures
 
  ---------------------
 |   IDEAS FOR LATER   |
