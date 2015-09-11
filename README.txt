@@ -2,7 +2,7 @@
                README
 -------------------------------------
 
-Current Version : v 1.1.5
+Current Version : v 1.1.6
  
  ---------------------
 | GENERAL INFORMATION |
@@ -151,6 +151,14 @@ September 11, 2015 : V 1.1.5 Released
                      BUGS TO NOTE
                      - Extensive stress testing of the media page reveals that occasionally it will bug out if you click too fast / click an image rapidly in succession.
                        Unsure what is causing this as of right now, will look into it later.
+
+September 11, 2015 : V 1.1.6 Released
+                     - Revamped Support page; Condensed letter, added support button that links to the College's sports donations page
+                     - Added links to pages referenced in the FAQ
+                     - Updated Post address to read "6083 Alumni Gym" instead of "Hinman box 6083" on Prospie and FAQ pages
+
+                     TO DO
+                     - News page. Will update this soon once I have everything I need
 
  ---------------------
 |   IDEAS FOR LATER   |
