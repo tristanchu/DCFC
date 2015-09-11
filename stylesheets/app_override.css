@@ -119,7 +119,8 @@ border: none;
 /** BODY SETTINGS **/
 
 body {
-  background-image:url("../pictures/background_2x.jpg"); /* The background displayed on each page */
+  background-image:url("../pictures/background_v2.jpg"); /* The background displayed on each page */
+  background-size: 100% 100%;
   background-repeat:no-repeat; /* no-repeat: background image does not repeat. repeat: background image repeats */
   background-attachment:fixed; /* fixed: background image does not scroll with page. scroll: background image scrolls with page */
 }

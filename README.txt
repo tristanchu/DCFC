@@ -2,7 +2,7 @@
                README
 -------------------------------------
 
-Current Version : v 1.1.4
+Current Version : v 1.1.5
  
  ---------------------
 | GENERAL INFORMATION |
@@ -95,47 +95,62 @@ Current Version : v 1.1.4
 |      CHANGELOG      |
  ---------------------
 
-July 19, 2015  : V 1.0.0 Released
+July 19, 2015     : V 1.0.0 Released
 
-August 8, 2015 : V 1.1.0 Released
-                 - Basic responsive design implemented. Website should now function on any screen size (NOTE: Still a little hacky, will look over this later)       
-                   - Website resizes content based on screen size. For smaller screens topbar changes to an off canvas dropdown navigation bar  
-                   - Media Queries used to resize header fonts based on screen size. As of now there is only a distinction set at the breakpoint of 640 px, will
-                     add more adaptive breakpoints in the future
-                   - THIS IS HACKY. Code cleanup and a better scaling methodology should be a priority in the future
-                 - Removed "Contact the Captains" information from the Prospective Students section
-                 - Removed sticky topbar for large screens. Topbar now moves with the screen when scrolled
-                 - Resized pictures on "Roster" page. Exec photos are now uniformly 300x300 px, everyone else is at 250x250 px 
-                 - Centered title images (shifted over from being on the left of each page)
+August 8, 2015    : V 1.1.0 Released
+                    - Basic responsive design implemented. Website should now function on any screen size (NOTE: Still a little hacky, will look over this later)       
+                      - Website resizes content based on screen size. For smaller screens topbar changes to an off canvas dropdown navigation bar  
+                      - Media Queries used to resize header fonts based on screen size. As of now there is only a distinction set at the breakpoint of 640 px, will
+                        add more adaptive breakpoints in the future
+                      - THIS IS HACKY. Code cleanup and a better scaling methodology should be a priority in the future
+                    - Removed "Contact the Captains" information from the Prospective Students section
+                    - Removed sticky topbar for large screens. Topbar now moves with the screen when scrolled
+                    - Resized pictures on "Roster" page. Exec photos are now uniformly 300x300 px, everyone else is at 250x250 px 
+                    - Centered title images (shifted over from being on the left of each page)
 
-August 8, 2015  : V 1.1.1 Released
-                  - Updated Roster Page. Submitted Pictures and Text for the 2015-2016 year
-                  - All photos on the Roster page are now JPGs to minimize file size
-                  - Restructured Photos and how they're organized
-                    - PICTURES           - Photos actually being used on the website
-                    - PICTURES_ORIGINALS - Photos as originally received
-                    - PICTURES_RESERVES  - Photos that could be used on the website
+August 8, 2015     : V 1.1.1 Released
+                     - Updated Roster Page. Submitted Pictures and Text for the 2015-2016 year
+                     - All photos on the Roster page are now JPGs to minimize file size
+                     - Restructured Photos and how they're organized
+                       - PICTURES           - Photos actually being used on the website
+                       - PICTURES_ORIGINALS - Photos as originally received
+                       - PICTURES_RESERVES  - Photos that could be used on the Website
 
-August 9, 2015  : V 1.1.2 Released
-                  - Updated Prospective Students Page. Submitted Pictures and Text for the 2015-2016 year
-                  - Minor reformat of the Prospective Students Page (structure, grid orientation)
-                  - Updated 1 student bio (roster_32) on Roster Page
-                  - Added IDEAS FOR LATER section to README
+August 9, 2015     : V 1.1.2 Released
+                     - Updated Prospective Students Page. Submitted Pictures and Text for the 2015-2016 year
+                     - Minor reformat of the Prospective Students Page (structure, grid orientation)
+                     - Updated 1 student bio (roster_32) on Roster Page
+                     - Added IDEAS FOR LATER section to README
 
-August 12, 2015 : V 1.1.3 Released
-                  - Updated Home, About Us, Practice, Competition, Support, and FAQ pages. Submitted Pictures and Text for the 2015-2016 year
-                    - Competition is incomplete because the schedule details are not yet known
-                    - News and Media are formatted, but not filled out.
-                    - NOTE: Figure out how to stop lag on Media page from overabundance of pictures
-                  - Added a new folder, "pictures_media" for pictures to be placed on the Media Page
-                  - Minor formatting changes
-                  - Added a ton of pictures, need to organize them later
-                  - NOTE: Pictures and text are NOT finalized. Working with a very limited toolset here.
+August 12, 2015    : V 1.1.3 Released
+                     - Updated Home, About Us, Practice, Competition, Support, and FAQ pages. Submitted Pictures and Text for the 2015-2016 year
+                       - Competition is incomplete because the schedule details are not yet known
+                       - News and Media are formatted, but not filled out.
+                       - NOTE: Figure out how to stop lag on Media page from overabundance of pictures
+                     - Added a new folder, "pictures_media" for pictures to be placed on the Media Page
+                     - Minor formatting changes
+                     - Added a ton of pictures, need to organize them later
+                     - NOTE: Pictures and text are NOT finalized. Working with a very limited toolset here.
 
-August 12, 2015 : V 1.1.4 Released
-                  - Updated various pages' text and pictures
-                  - Added the tentative competition schedule for 2015-2016 year
-                  - More pictures
+August 12, 2015    : V 1.1.4 Released
+                     - Updated various pages' text and pictures
+                     - Added the tentative competition schedule for 2015-2016 year
+                     - More pictures
+
+September 11, 2015 : V 1.1.5 Released
+                     - Added favicon into source file (Credit to Scott Brookes '14 for making it)
+                     - Fixed issue where page names would always be "Foundation". Now accurately reflects the name of each page on the tab
+                     - Background updated to avoid potential lawesuit. Also not broken now. (Credit to Raphael Hviding '18 for making it)
+                     - Fixed media page so it doesn't crash computers. All images have been added. Image sizes have all been optimized to be < 70 KB.
+                     - Created an "Unfinished page" for pages currently in progress. Replaced the news page with it, as well as all links leading to the news page.
+                     - Added a -lot- of photos. Armory photos now actually reflect what's in the armory.
+                     - Banner is now an active image - clicking on it from any page will direct the user back to the home page.
+                     - Whole slew of grammatical changes because Acacia.
+                     - Changed some roster information.
+
+                     BUGS TO NOTE
+                     - Extensive stress testing of the media page reveals that occasionally it will bug out if you click too fast / click an image rapidly in succession.
+                       Unsure what is causing this as of right now, will look into it later.
 
  ---------------------
 |   IDEAS FOR LATER   |
